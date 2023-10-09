@@ -1,0 +1,18 @@
+{
+    "name": "js-array-plunck",
+    "version": "1.0.0",
+    "repository": {
+        "url": "git@github.com:ashanjayasundara/node-array-pluck.git"
+    },
+    "author": {
+        "name": "Ashan Jayasundara",
+        "email": "email2ashan@gmail.com"
+    },
+    "license": "MIT",
+    "scripts": {
+        "compile": "rm -rf dist/lib && tsc && tsc --build tsconfig.es5.json"
+    },
+    "devDependencies": {
+        "typescript": "^5.1.6"
+    }
+}

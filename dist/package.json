@@ -1,0 +1,33 @@
+{
+    "name": "@ashan/utils",
+    "version": "0.0.1",
+    "description": "A set of JavaScript utils",
+    "main": "lib/es5/index.js",
+    "module": "lib/es6/index.js",
+    "sideEffects": false,
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ashanjayasundara/node-array-pluck.git"
+    },
+    "files": [
+        "lib",
+        "CHANGELOG.md",
+        "LICENSE",
+        "package.json",
+        "README.md"
+    ],
+    "keywords": [
+        "JavaScript",
+        "utils",
+        "utilities"
+    ],
+    "author": {
+        "name": "Ashan Jayasundara",
+        "email": "email2ashan@gmail.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ashanjayasundara/node-array-pluck/issues"
+    },
+    "homepage": "https://github.com/ashanjayasundara/node-array-pluck#readme"
+}
